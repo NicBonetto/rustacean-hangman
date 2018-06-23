@@ -1,4 +1,4 @@
-# rustacean-hangman
+# rusty-hangman
 
 ### A simple hangman game played in your terminal/command line. Written in Rust.
 I built this project to learn the Rust language basics. 
